@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nitish Karnwal
+- 👀 I’m here to help you to complete your dreams into reality. 
+- 🌱 I’m a software developer having more than 5 years of experience. I have experience in MVC, C#, Dot net core, SQL, Javascript, HTML. 
+- 💞️ I’m looking for plateform where i can utilize my experience and fullfill the requirement.
+- 📫 You can email me at my email ID : nkarnwal@gmail.com or you can search me on upwork my id : https://www.upwork.com/o/profiles/users/~01a7c2052d7a3eb770/
